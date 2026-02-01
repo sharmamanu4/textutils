@@ -33,8 +33,5 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ---
 
-## :man: Project Created & Maintained By
-<a href = "https://github.com/sharmamanu4"></a>
-<a href = "https://www.linkedin.com/in/manu-sharma12/">
-</a>
+
 </p>
