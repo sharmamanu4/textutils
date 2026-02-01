@@ -34,9 +34,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 ---
 
 ## :man: Project Created & Maintained By
-
-<img src = "https://avatars2.githubusercontent.com/u/47274683?s=460&u=d0f1b40291f480413ce4ac9a96b6d4603289844e&v=4"  height="120" alt=""> <br>Manu Sharma
-<p>
 <a href = "https://github.com/sharmamanu4"></a>
 <a href = "https://www.linkedin.com/in/manu-sharma12/">
 </a>
